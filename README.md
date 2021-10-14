@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RocioL17
 - 👀 I’m interested in Horses, Books and Code
-- 🌱 I’m currently learning to code
+- 🌱 I’m currently learning to use Git
 - 💞️ I’m looking to collaborate on designing web pages
 - 📫 How to reach me: learretarocio@gmail.com
 
