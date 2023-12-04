@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RocioL17
-- 👀 I’m interested in Horses, Books and Code
-- 🌱 I’m currently learning to use Git
-- 💞️ I’m looking to collaborate on designing web pages
-- 📫 How to reach me: learretarocio@gmail.com
+- 👀 I’m studying to become a software engineer
+
 
 <!---
 RocioL17/RocioL17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
