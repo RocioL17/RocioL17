@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RocioL17
-- 👀 I’m studying to become a software engineer
+- 👀 I’m studying to become a software engineer, currently on my fourth year of IT engineering career
+- ✨ I enjoy coding and developing features that solve day-to-day problems.
 
 
 <!---
